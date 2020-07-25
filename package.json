@@ -36,7 +36,7 @@
         "blueimp-gallery-with-desc": "https://github.com/likt0r/Gallery.git",
         "blueimp-load-image": "^2.20.1",
         "blueimp-tmpl": "^3.11.0",
-        "bootstrap": "~3.3.6",
+        "bootstrap": "~3.4.1",
         "bootstrap-colorpicker": "^2.5.2",
         "bootstrap-datepicker": "^1.7.1",
         "bootstrap-daterangepicker": "^2.1.30",
