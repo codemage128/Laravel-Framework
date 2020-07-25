@@ -1,0 +1,116 @@
+#RGB {
+    height     : 20px;
+    background : rgb(128, 128, 128);
+}
+#RC .slider-selection {
+    background : #FF8282;
+}
+#RC .slider-handle {
+    background : #FF8282;
+}
+#GC .slider-selection {
+    background : #00bc8c;
+}
+#GC .slider-handle {
+    background : #00bc8c;
+}
+#BC .slider-selection {
+    background : #418bca;
+}
+#BC .slider-handle {
+    border-bottom-color : #418bca;
+}
+#RED .slider-selection {
+    background : #ef6f6c;
+}
+#RED .slider-handle {
+    background : #EF6B69;
+}
+#R, #G, #B {
+    width : 300px;
+}
+#ex1Slider .slider-selection {
+    background: #BABABA;
+}
+
+#ex1Slider .slider-handle ,#ex6Slider .slider-handle,#ex5Slider .slider-handle,#ex2Slider .slider-handle,#ex7Slider .slider-handle,#ex26Slider .slider-handle,#ex10Slider .slider-handle{
+    background : #62aceb;
+}
+#ex3Slider .slider-handle,#ex4Slider .slider-handle{
+    background: #00bc8c;
+}
+.slider-disabled .slider-selection {
+    background : #aaaaaa !important;
+}
+.slider-disabled .slider-handle {
+    background : #aaaaaa !important;
+}
+#ex8 .slider-selection {
+    background : #62aceb;
+}
+#ex8 .slider-handle {
+    background : #62aceb;
+}
+#ex9 .slider-selection {
+    background : #00bc8c;
+}
+#ex9 .slider-handle {
+    background : #00bc8c;
+}
+
+label {;
+    font-weight : lighter;
+}
+.destroy-margt {
+    margin-top : 20px;
+}
+#destroyEx5Slider {
+    margin-left :15px;
+}
+@media (min-width:320px) and (max-width:425px){
+    #destroyEx5Slider{
+        margin-top:5px;
+    }
+    .tooltip-min > .tooltip-inner {
+        display : none;
+    }
+    .tooltip-max > .tooltip-inner {
+        display : none;
+    }
+    .tooltip {
+        opacity : 0;
+    }
+    .form-group select {
+        -webkit-appearance : menulist;
+    }
+    .tooltip .tooltip-arrow {
+        display : initial;
+    }
+    .tooltip .tooltip-inner {
+        color            : #fff;
+        background-color : #000;
+    }
+
+}
+.slider-handle.custom::before {
+    color:#62aceb;
+}
+/*colors for sliders*/
+.irs--modern .irs-bar
+{
+    background: #67c5df;
+}
+.irs--modern .irs-from
+{
+    background: #67c5df;
+}
+.irs--modern .irs-from,
+.irs--modern .irs-to,
+.irs--modern .irs-single
+{
+    background: #67c5df;
+}
+.irs-from:after, .irs-to:after, .irs-single:after
+{
+    border-top-color: #67c5df;
+}
