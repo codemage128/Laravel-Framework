@@ -32,7 +32,7 @@
         "awesome-bootstrap-checkbox": "~0.3.7",
         "backbone": "~1.2.3",
         "blueimp-canvas-to-blob": "^3.14.0",
-        "blueimp-file-upload": "~9.11.2",
+        "blueimp-file-upload": "~10.31.0",
         "blueimp-gallery-with-desc": "https://github.com/likt0r/Gallery.git",
         "blueimp-load-image": "^2.20.1",
         "blueimp-tmpl": "^3.11.0",
